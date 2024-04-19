@@ -1,5 +1,4 @@
-FROM node:6.0.0-slim
-MAINTAINER Yago Almeida
+FROM node:18.17.0-slim
 
 WORKDIR /app
 
